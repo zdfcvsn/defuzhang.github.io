@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-![avatar](defuzhang.jpg #pic_center=50x30)
+<img src="defuzhang.jpg" width = "30" height = "20" alt="图片名称" align=center />
 # Header 1
 ## Header 2
 ### Header 3
