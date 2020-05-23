@@ -17,7 +17,7 @@
 - Pre-Ph.D summer school scholarship winner offered by cholarships French embassy
 - Master of excellent joint training of Shenyang Institute of Automation (SIA), Chinese Academy of Sciences
 - research achievement award of HeBei univerisity
-
+-
 ------
 # Research Experience
 
