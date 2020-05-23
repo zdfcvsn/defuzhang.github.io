@@ -19,6 +19,7 @@
 - research achievement award of HeBei univerisity
 -
 ------
+------
 # Research Experience
 
 ## Intelligent detection of surface defects (2017.09 - present)
