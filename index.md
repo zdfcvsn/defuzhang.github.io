@@ -12,12 +12,15 @@
 - 2011.09 - 2015.06   BS in Mechanical Design, Manufacturing and Automation, Hebei University, Baoding, China
 
 ------
+
 # Honor
 
 - Pre-Ph.D summer school scholarship winner offered by cholarships French embassy
 - Master of excellent joint training of Shenyang Institute of Automation (SIA), Chinese Academy of Sciences
-- research achievement award of HeBei univerisity   
+- research achievement award of HeBei univerisity  
+
 ------
+
 # Research Experience
 
 - Intelligent detection of surface defects (2017.09 - present)
@@ -27,8 +30,12 @@
 - Design of intelligent mobile platform for service robot (2016.01 - 2017.03)
 
 ------
+
 # Academic Achievements
 - Defu Zhang, Kechen Song, Jing Xu, Yu He and Yunhui Yan. Unified detection method of aluminium profile surface defects: Common and rare defect categories[J]. Optics and Lasers in Engineering, 2020, 126: 105936. 
+
+------
+
 # Skills
 
 - Deep learning framework：pytorch
