@@ -29,10 +29,15 @@
 
 - Design of intelligent mobile platform for service robot (2016.01 - 2017.03)
 
+- Design of differential mechanism of micro electirc vehicle  (2012.06 - 2014.06)
+
 ------
 
 # Academic Achievements
-- Defu Zhang, Kechen Song, Jing Xu, Yu He and Yunhui Yan. Unified detection method of aluminium profile surface defects: Common and rare defect categories[J]. Optics and Lasers in Engineering, 2020, 126: 105936. 
+- Defu Zhang, Kechen Song, Jing Xu, Yu He and Yunhui Yan. Unified detection method of aluminium profile surface defects: Common and rare defect categories[J]. Optics and Lasers in Engineering, 2020, 126: 105936.(SCI源,IF:4.059) 
+- Jing Xu, Kechen Song, Defu Zhang, Hongwen Dong and Yunhui Yan. Informed Anytime Fast Marching Tree for Asymptotically Optimal Motion Planning [J]. IEEE Transactions on Industrial Electronics. (SCI源,IF:7.503)
+- Menghui Niu, Kechen Song, Xin Wen, Defu Zhang, Yunhui Yan. The line scan camera calibration based on space rings group [J]. IEEE Access, 2018, 6: 23711-23721. (SCI源,IF:3.557)
+- Yuwang Liu, Defu Zhang and Fuhua Wang, Research on 3D Photoelectric Torque Sensor with High Integration[C]. 2017 2nd International Conference on Electrical, Automation and Mechanical Engineering (EAME).(EI检索)
 
 ------
 
